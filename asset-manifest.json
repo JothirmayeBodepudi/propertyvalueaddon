@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/propertyvalueaddon/static/css/main.2870c21b.css",
-    "main.js": "/propertyvalueaddon/static/js/main.1191c3f3.js",
-    "static/js/453.8ab44547.chunk.js": "/propertyvalueaddon/static/js/453.8ab44547.chunk.js",
-    "index.html": "/propertyvalueaddon/index.html",
-    "main.2870c21b.css.map": "/propertyvalueaddon/static/css/main.2870c21b.css.map",
-    "main.1191c3f3.js.map": "/propertyvalueaddon/static/js/main.1191c3f3.js.map",
-    "453.8ab44547.chunk.js.map": "/propertyvalueaddon/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/middleindian/static/css/main.2870c21b.css",
+    "main.js": "/middleindian/static/js/main.1d6d151e.js",
+    "static/js/453.8ab44547.chunk.js": "/middleindian/static/js/453.8ab44547.chunk.js",
+    "index.html": "/middleindian/index.html",
+    "main.2870c21b.css.map": "/middleindian/static/css/main.2870c21b.css.map",
+    "main.1d6d151e.js.map": "/middleindian/static/js/main.1d6d151e.js.map",
+    "453.8ab44547.chunk.js.map": "/middleindian/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2870c21b.css",
-    "static/js/main.1191c3f3.js"
+    "static/js/main.1d6d151e.js"
   ]
 }
